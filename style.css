@@ -42,6 +42,7 @@
     background-color: rgb(243, 52, 52);
     color: white;
     border: none;
+    font-weight: bold;
 }
 
 .btnGreen2{
@@ -54,11 +55,13 @@
     background-color: rgb(7, 194, 7);
     color: white;
     border: none;
+    font-weight: bold;
 }
 
 p {
     text-align: center;
     font-size: 20px;
+    font-weight: bold;
 }
 
 .subscribeImg{
